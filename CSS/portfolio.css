@@ -35,6 +35,7 @@ nav {
     margin: auto;
     text-align: center;
     line-height: 10vh;
+    overflow:hidden;
 }
 
 nav a {
