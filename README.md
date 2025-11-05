@@ -161,4 +161,4 @@ index.html
 ---
 
 ## 📄 **Licença**
-Este projeto é de código aberto sob a licença **MIT** — uso livre com atribuição ao autor original.
+Este projeto é de código aberto — uso livre.
